@@ -1,0 +1,13 @@
+﻿cl : Command line warning D9025: overriding '/EHs' with '/EHa'
+  cylinder.cpp
+c:\users\nd_mo\desktop\pennhwork\660 advanced graphics\hw2\mayapluginhw2\cylinder.h(4): fatal error C1083: Cannot open include file: 'maya/MPoint.h': No such file or directory
+  LSystem.cpp
+c:\users\nd_mo\desktop\pennhwork\660 advanced graphics\hw2\mayapluginhw2\lsystem.cpp(52): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  LSystemCmd.cpp
+c:\users\nd_mo\desktop\pennhwork\660 advanced graphics\hw2\mayapluginhw2\lsystemcmd.h(4): fatal error C1083: Cannot open include file: 'maya/MPxCommand.h': No such file or directory
+  LSystemNode.cpp
+c:\users\nd_mo\desktop\pennhwork\660 advanced graphics\hw2\mayapluginhw2\lsystemnode.h(1): fatal error C1083: Cannot open include file: 'maya/MTime.h': No such file or directory
+  PluginMain.cpp
+c:\users\nd_mo\desktop\pennhwork\660 advanced graphics\hw2\mayapluginhw2\pluginmain.cpp(4): fatal error C1083: Cannot open include file: 'maya/MPxCommand.h': No such file or directory
+  vec.cpp
+  Generating Code...
